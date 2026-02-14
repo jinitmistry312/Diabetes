@@ -1,0 +1,1 @@
+diabetes_binary_health_indicators dataset has 5933 survey records.  It has an equal 50-50 split of respondents with no diabetes and with either prediabetes or diabetes. The target variable Diabetes_binary has 2 classes. 0 is for no diabetes, and 1 is for prediabetes or diabetes. This dataset has 21 feature variables and is balanced.
